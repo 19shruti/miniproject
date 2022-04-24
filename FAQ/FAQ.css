@@ -1,0 +1,12 @@
+h1{
+    font-size: 4rem;
+    font-weight: 500;
+    color: brown;
+}
+h2{
+ text-align: center;
+}
+p{
+    padding-right: 5%;
+    padding-left: 5%;
+}
